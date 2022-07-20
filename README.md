@@ -3,7 +3,8 @@ to docerise your spring microservice
 put this file in your microserve (target folder)
 go inside this file and run 
 
- -- docker build -t singh:1.1 .
+ ```docker build -t singh:1.1 .
+ ```
  
  -- docker images 
  
