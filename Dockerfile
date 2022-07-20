@@ -1,5 +1,5 @@
 FROM openjdk:8-jre
-MAINTAINER pradip@taggd.com
+MAINTAINER singhsourabh074@gmail.com
 
 ENV TZ=Asia/Kolkata
 RUN ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone
